@@ -14,3 +14,6 @@ for i in range(len(user_list)):
     user_list[i] = int(user_list[i])
 
 findDuplicatesInArray(user_list)
+
+# this portion of the code is dedicated solely to getting the file size up so github doesn't display the repository as "HTML" when it's clearly python
+# i would spam irrelevant memes here but i'm not a 9 year old
