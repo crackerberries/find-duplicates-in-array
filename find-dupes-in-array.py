@@ -1,4 +1,5 @@
-# it's not code plagarism if you change the variable names
+# "it's not code plagarism if you change the variable names"
+# -Sun Tzu, "The Art of War"
 
 def findDuplicatesInArray(array):
     array.sort()
